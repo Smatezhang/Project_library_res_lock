@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>  -->
+
+
+    <!--使用最多的颜色，亮色主题下等同于white-->
+    <!--建议在您的项目中自定以辅色-->
+    <!--建议在您的项目自定义您的控件背景色-->
+
+
+    <!--常用颜色-->
+    <!--高亮色-->
+    <!--分割色-->
+    <!--透明色-->
+    <!--白色-->
+    <!--黑色-->
+    <!--白玻璃-->
+    <!--黑玻璃-->
+
+    <!--字体颜色-->
+    <!--淡色字体-->
+    <!--常用字色-->
+    <!--深色字体-->
+
+    <!--二级进度颜色-->
+
+
+    <color name="colorPrimary">#4187FF</color>
+    <color name="colorPrimaryDark">#4187FF</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+</resources>

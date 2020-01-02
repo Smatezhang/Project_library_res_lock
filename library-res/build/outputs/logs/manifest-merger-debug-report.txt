@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml:1:1-2:43
+INJECTED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml:1:1-2:43
+INJECTED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml:1:1-2:43
+INJECTED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml:1:1-2:43
+INJECTED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml:1:1-2:43
+INJECTED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml:1:1-2:43
+INJECTED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml:1:1-2:43
+	package
+		ADDED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml:2:11-41
+		INJECTED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml:1:1-2:43
+		INJECTED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml:1:1-2:43
+		INJECTED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml
+INJECTED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml
+INJECTED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml
+INJECTED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangxiaohua/Documents/as_ws/itekMvvm_backup/Project_library_res/library-res/src/main/AndroidManifest.xml

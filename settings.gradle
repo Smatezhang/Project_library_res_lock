@@ -1,0 +1,2 @@
+include ':app', ':library-res'
+rootProject.name='Project_library_res'
